@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Querys>
-  <query name="getDeleteBooksId">
-    delete from BOOKS where id = :id
-  </query>
-
-</Querys>
